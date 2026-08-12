@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.33.3](https://github.com/Viren070/AIOStreams/compare/v2.33.2...v2.33.3) (2026-08-12)
+
+
+### Bug Fixes
+
+* preserve word boundary when stripping : and ; in cleanTitle ([#1188](https://github.com/Viren070/AIOStreams/issues/1188)) ([6b9ee1c](https://github.com/Viren070/AIOStreams/commit/6b9ee1c8eaf9fb200c69d083315a58bf4ea54018))
+* **usenet:** don't size a file from `=ybegin size=` when it holds only some parts ([e211efa](https://github.com/Viren070/AIOStreams/commit/e211efa9d29fe0d36849a4303f2ca2e158f0fb97))
+* **usenet:** merge NZBs that list one file per article ([f1ff3c5](https://github.com/Viren070/AIOStreams/commit/f1ff3c51ce93017dc4a69d66ea6f7b5258c57116))
+
 ## [2.33.2](https://github.com/Viren070/AIOStreams/compare/v2.33.1...v2.33.2) (2026-08-10)
 
 
