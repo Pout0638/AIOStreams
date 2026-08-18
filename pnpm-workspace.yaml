@@ -12,5 +12,6 @@ allowBuilds:
   yencode: true
 
 patchedDependencies:
+  '@viren070/parse-torrent-title@0.8.6': 'patches/@viren070__parse-torrent-title@0.8.6.patch'
   stremthru: patches/stremthru.patch
   yencode@1.2.4: patches/yencode@1.2.4.patch
