@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 patchedDependencies:
-  '@viren070/parse-torrent-title@0.8.6': 94e2e52cbe6c0db9007c193e912d9ddb21e2a0dfceeb86b4ddc3982c723b7fd0
+  '@viren070/parse-torrent-title@0.8.6': b9a91c1c983d32fd3e65d1b45761ea61f70c9d3201874a686647d65fa2d82f9b
   stremthru: 5d59636029f2455cfc103c8b8206ce24ff67c7f7f77e6fb8ea3f65dca52105dd
   yencode@1.2.4: 789de3a1a93eb2db8c8833260e74c663adee24df0e3dff0bddd220a6f4c4b31f
 
@@ -39,7 +39,7 @@ importers:
         version: https://codeload.github.com/viren070/torbox-sdk-js/tar.gz/82fb4eb14ccd3a0372fb445f796fa49527960cdd
       '@viren070/parse-torrent-title':
         specifier: ^0.8.6
-        version: 0.8.6(patch_hash=94e2e52cbe6c0db9007c193e912d9ddb21e2a0dfceeb86b4ddc3982c723b7fd0)
+        version: 0.8.6(patch_hash=b9a91c1c983d32fd3e65d1b45761ea61f70c9d3201874a686647d65fa2d82f9b)
       bcrypt:
         specifier: ^6.0.0
         version: 6.0.0
@@ -9659,7 +9659,7 @@ snapshots:
   '@unrs/resolver-binding-win32-x64-msvc@1.12.2':
     optional: true
 
-  '@viren070/parse-torrent-title@0.8.6(patch_hash=94e2e52cbe6c0db9007c193e912d9ddb21e2a0dfceeb86b4ddc3982c723b7fd0)': {}
+  '@viren070/parse-torrent-title@0.8.6(patch_hash=b9a91c1c983d32fd3e65d1b45761ea61f70c9d3201874a686647d65fa2d82f9b)': {}
 
   '@vitest/expect@2.1.9':
     dependencies:
